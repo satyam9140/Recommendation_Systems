@@ -1,0 +1,46 @@
+user_id,rank,movie_id,score,year,title
+1,1,13,5.0,2004,Eternal Sunshine of the Spotless Mind
+1,2,2,4.643431138509876,1994,The Shawshank Redemption
+1,3,8,4.323263776156215,2000,Gladiator
+1,4,1,4.0,1999,The Matrix
+1,5,10,4.0,2002,The Lord of the Rings: The Two Towers
+1,6,9,3.9351835685626844,1997,Titanic
+1,7,15,3.9138722530904886,2007,Ratatouille
+1,8,18,3.501598658962546,2005,Batman Begins
+2,1,6,5.0,1995,Toy Story
+2,2,14,4.0,1991,The Silence of the Lambs
+2,3,5,4.0,2010,Inception
+2,4,18,3.914624199127579,2005,Batman Begins
+2,5,7,3.6775233868315005,2003,Finding Nemo
+2,6,13,3.533850338515772,2004,Eternal Sunshine of the Spotless Mind
+2,7,3,3.5036681889597725,2001,Spirited Away
+2,8,4,3.255378107425699,2008,The Dark Knight
+2,9,1,2.954086491654971,1999,The Matrix
+3,1,17,5.0,1998,Saving Private Ryan
+3,2,15,4.932470738680229,2007,Ratatouille
+3,3,4,4.666835477557512,2008,The Dark Knight
+3,4,8,3.552941176470588,2000,Gladiator
+3,5,14,3.4,1991,The Silence of the Lambs
+3,6,13,3.3388888888888886,2004,Eternal Sunshine of the Spotless Mind
+3,7,18,3.3257053114648154,2005,Batman Begins
+3,8,5,3.325,2010,Inception
+3,9,10,3.1828115020269876,2002,The Lord of the Rings: The Two Towers
+3,10,1,3.0,1999,The Matrix
+4,1,15,4.060017235908313,2007,Ratatouille
+4,2,6,4.0,1995,Toy Story
+4,3,16,4.0,2009,Up
+4,4,12,4.0,2006,The Departed
+4,5,13,3.8633898939390874,2004,Eternal Sunshine of the Spotless Mind
+4,6,4,3.8106504273815927,2008,The Dark Knight
+4,7,18,3.7771668405009002,2005,Batman Begins
+4,8,14,3.7431408200573593,1991,The Silence of the Lambs
+4,9,11,3.5001172101717013,1993,Jurassic Park
+4,10,1,3.2019504068871156,1999,The Matrix
+5,1,5,2.9999999999999996,2010,Inception
+5,2,8,2.9041315872027242,2000,Gladiator
+5,3,1,2.8610968621505646,1999,The Matrix
+5,4,14,2.6461647856799924,1991,The Silence of the Lambs
+5,5,3,2.6193623466518163,2001,Spirited Away
+5,6,18,2.5744116392248015,2005,Batman Begins
+5,7,7,2.411513211858552,2003,Finding Nemo
+5,8,6,1.0,1995,Toy Story

@@ -1,0 +1,82 @@
+user_id,movie_id,rating,date,year,title
+5,1,2.0,2004-03-09,1999,The Matrix
+5,14,3.0,2004-10-09,1991,The Silence of the Lambs
+10,14,3.0,2004-01-09,1991,The Silence of the Lambs
+18,4,2.0,2003-12-18,2008,The Dark Knight
+18,8,3.0,2004-01-12,2000,Gladiator
+21,3,5.0,2003-11-13,2001,Spirited Away
+21,2,5.0,2003-12-07,1994,The Shawshank Redemption
+37,13,3.0,2004-02-10,2004,Eternal Sunshine of the Spotless Mind
+37,6,3.0,2004-04-10,1995,Toy Story
+6,10,4.0,2004-07-07,2002,The Lord of the Rings: The Two Towers
+6,8,4.0,2004-09-19,2000,Gladiator
+32,10,3.0,2003-12-08,2002,The Lord of the Rings: The Two Towers
+32,8,4.0,2004-01-26,2000,Gladiator
+28,16,3.0,2004-10-20,2009,Up
+28,13,3.0,2005-03-21,2004,Eternal Sunshine of the Spotless Mind
+13,4,4.0,2004-04-12,2008,The Dark Knight
+13,2,5.0,2004-12-08,1994,The Shawshank Redemption
+13,11,4.0,2005-04-24,1993,Jurassic Park
+39,18,4.0,2004-06-14,2005,Batman Begins
+39,12,4.0,2004-08-19,2006,The Departed
+39,4,3.0,2004-12-02,2008,The Dark Knight
+35,9,3.0,2004-05-05,1997,Titanic
+35,16,3.0,2004-11-12,2009,Up
+30,17,4.0,2004-05-08,1998,Saving Private Ryan
+30,15,4.0,2004-10-02,2007,Ratatouille
+31,8,4.0,2004-04-04,2000,Gladiator
+31,11,4.0,2004-04-11,1993,Jurassic Park
+38,10,4.0,2004-11-21,2002,The Lord of the Rings: The Two Towers
+38,18,4.0,2005-01-06,2005,Batman Begins
+38,6,3.0,2005-02-23,1995,Toy Story
+15,12,4.0,2005-03-06,2006,The Departed
+15,16,3.0,2005-05-16,2009,Up
+23,9,3.0,2004-09-23,1997,Titanic
+23,13,4.0,2004-12-30,2004,Eternal Sunshine of the Spotless Mind
+23,7,4.0,2005-11-23,2003,Finding Nemo
+25,11,4.0,2004-05-04,1993,Jurassic Park
+29,11,3.0,2005-01-13,1993,Jurassic Park
+29,9,3.0,2005-02-16,1997,Titanic
+24,4,4.0,2004-12-28,2008,The Dark Knight
+24,6,2.0,2005-04-07,1995,Toy Story
+9,9,3.0,2005-02-08,1997,Titanic
+9,3,3.0,2005-05-16,2001,Spirited Away
+19,8,4.0,2004-08-18,2000,Gladiator
+7,7,3.0,2004-10-22,2003,Finding Nemo
+7,17,2.0,2005-01-03,1998,Saving Private Ryan
+33,11,4.0,2004-05-21,1993,Jurassic Park
+33,6,4.0,2004-05-25,1995,Toy Story
+1,18,3.0,2005-04-05,2005,Batman Begins
+1,10,3.0,2005-05-20,2002,The Lord of the Rings: The Two Towers
+8,4,3.0,2005-03-15,2008,The Dark Knight
+8,2,4.0,2005-05-08,1994,The Shawshank Redemption
+8,13,3.0,2005-10-27,2004,Eternal Sunshine of the Spotless Mind
+14,8,4.0,2005-05-05,2000,Gladiator
+14,18,3.0,2005-05-25,2005,Batman Begins
+14,7,3.0,2006-04-14,2003,Finding Nemo
+26,7,4.0,2004-10-25,2003,Finding Nemo
+26,12,3.0,2005-01-23,2006,The Departed
+2,13,3.0,2005-03-04,2004,Eternal Sunshine of the Spotless Mind
+2,5,3.0,2005-10-22,2010,Inception
+36,4,4.0,2005-01-13,2008,The Dark Knight
+36,14,4.0,2005-08-29,1991,The Silence of the Lambs
+36,12,4.0,2005-09-18,2006,The Departed
+12,17,4.0,2005-06-01,1998,Saving Private Ryan
+12,2,3.0,2005-07-02,1994,The Shawshank Redemption
+3,15,3.0,2005-01-07,2007,Ratatouille
+20,15,4.0,2006-02-02,2007,Ratatouille
+20,7,4.0,2006-04-26,2003,Finding Nemo
+16,3,5.0,2005-02-15,2001,Spirited Away
+16,10,3.0,2005-06-17,2002,The Lord of the Rings: The Two Towers
+40,11,4.0,2005-01-30,1993,Jurassic Park
+11,14,4.0,2005-01-01,1991,The Silence of the Lambs
+27,9,3.0,2005-02-08,1997,Titanic
+4,4,2.0,2005-08-10,2008,The Dark Knight
+4,16,4.0,2005-12-23,2009,Up
+17,13,4.0,2005-09-03,2004,Eternal Sunshine of the Spotless Mind
+17,9,4.0,2005-12-16,1997,Titanic
+34,15,5.0,2005-11-25,2007,Ratatouille
+34,14,3.0,2005-12-17,1991,The Silence of the Lambs
+22,13,2.0,2005-12-23,2004,Eternal Sunshine of the Spotless Mind
+22,2,4.0,2006-02-02,1994,The Shawshank Redemption
+22,4,3.0,2006-04-15,2008,The Dark Knight
